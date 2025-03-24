@@ -9,7 +9,6 @@ from src.database import DatabaseManager
 from src.api import create_app
 import ssl
 
-
 class Application:
     def __init__(self):
         self.contador = None
